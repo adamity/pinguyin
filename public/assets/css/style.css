@@ -1,0 +1,9 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.textarea {
+    border: none !important;
+    outline: none !important;
+    resize: none !important;
+}
